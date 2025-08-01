@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pritish31v
 - 👀 Interested in DATA Science
 - 🌱 I’m currently learning major in (STATISTICS/CS/MATHAMATICS)
-- 📫 How to reach me pritish31v@gmail.com
+- 📫 How to reach me pritish31vi@gmail.com
   
 
 <!---
