@@ -28,14 +28,7 @@ I believe in transforming raw data into actionable insights, and I'm working on 
 - Data Modeling & DAX Patterns  
 - Custom Power BI visuals with JavaScript  
 - PostgreSQL Advanced Queries  
-- Portfolio & Resume Building for BI Roles  
-
----
-
-#### 📂 Featured Projects (Coming Soon)
-- 🔹 **Hospital Medicine Forecast Dashboard** – Predictive insights using Power BI  
-- 🔹 **Sales Analysis Report** – Excel + Power BI + Python integration  
-- 🔹 **TCS Insurance Data Report** – Real-world enterprise case study  
+- Portfolio & Resume Building for BI Roles   
 
 ---
 
