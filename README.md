@@ -40,8 +40,8 @@ I believe in transforming raw data into actionable insights, and I'm working on 
 ---
 
 #### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com) (update with your profile)
-- ✉️ Email: (Pritish31vi@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pritish-vilayatkar-785535308/) (update with your profile)
+- ✉️ Email: (pritish31vi@gmail.com)
 
 ---
 
