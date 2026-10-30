@@ -1,47 +1,59 @@
-### 👋 Hi there, I'm Pritish Vilayatkar
+# 👋 Hi there, I'm Pritish Vilayatkar
 
-🎯 **Aspiring Power BI Developer | Data Analyst | Lifelong Learner**
+🎯 **Aspiring Full-Stack Developer | Python Developer | Lifelong Learner**
 
-I'm a passionate tech enthusiast with a background in **Mathematics, Statistics, and Computer Science**. Currently, I'm building my skills in **data analysis, visualization, and reporting** with a strong focus on **Power BI**, **Python**, **SQL**, and **Excel**.  
+I'm a Computer Science graduate with a background in **Mathematics, Statistics, and Computer Science**, passionate about building software, solving problems, and exploring new technologies.
 
-I believe in transforming raw data into actionable insights, and I'm working on real-world projects to sharpen my skills and build a professional portfolio.
+I'm currently focused on becoming a **Full-Stack Developer**, strengthening my programming fundamentals, backend development skills, and understanding of how modern applications work.
 
----
-
-#### 🚀 My Tech Stack
-- **BI & Visualization:** Power BI, DAX, Excel, Power Query  
-- **Programming:** Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL, MySQL)  
-- **Tools & Platforms:** Git, GitHub, VS Code, Power BI Service  
-- **Soft Skills:** Analytical Thinking, Problem-Solving, Communication
+I enjoy learning by building projects, experimenting with technologies, and turning ideas into practical applications.
 
 ---
 
-#### 📌 Current Focus
-- 💼 Building Power BI dashboards for personal and professional projects  
-- 📊 Working on a **Medicine Demand Forecasting** project  
-- 📖 Learning advanced SQL and PostgreSQL  
-- 📹 Creating short content for **YouTube & Instagram** on data topics
+### 🚀 My Tech Stack
+
+- **Programming:** Python, JavaScript, SQL
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, Python
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools & Platforms:** Git, GitHub, VS Code, Power BI
+- **Data & Analytics:** Pandas, NumPy, Matplotlib, Excel
 
 ---
 
-#### 🌱 I'm Learning
-- Data Modeling & DAX Patterns  
-- Custom Power BI visuals with JavaScript  
-- PostgreSQL Advanced Queries  
-- Portfolio & Resume Building for BI Roles   
+### 📌 Current Focus
+
+- 💻 Building a strong foundation in Full-Stack Development
+- 🐍 Improving Python and backend development skills
+- 🌐 Learning application architecture and database integration
+- 🛠️ Building practical projects to strengthen my development experience
+- 📚 Practicing problem-solving and writing cleaner, maintainable code
 
 ---
 
-#### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/pritish-vilayatkar-785535308/) 
-- ✉️ Email: (pritish31vi@gmail.com)
+### 🌱 Currently Exploring
+
+- Python Backend Development
+- Django and REST APIs
+- Full-Stack Application Development
+- Database Design and Optimization
+- Git, GitHub and Software Development Workflows
 
 ---
 
-*“Data tells a story. I'm here to listen, visualize, and share it.”*
+### 📂 Projects
 
+I enjoy working on projects that combine practical problem-solving with technology.
 
-<!---
-pritish31v/pritish31v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Check out my repositories to explore my dashboards, data projects, and software development experiments.
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pritish-vilayatkar-785535308/)
+- ✉️ **Email:** pritish31vi@gmail.com
+
+---
+
+*“The best way to learn programming is to build something, break it, understand it, and build it better.”*
