@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Pritish Vilayatkar
 
-🎯 **Aspiring Full-Stack Developer | Python Developer | Lifelong Learner**
+🎯 **Aspiring Full-Stack Developer | Python Developer | Professional Bug Creator**
 
-I'm a Computer Science graduate with a background in **Mathematics, Statistics, and Computer Science**, passionate about building software, solving problems, and exploring new technologies.
+I'm a Computer Science graduate with a background in **Mathematics, Statistics, and Computer Science**.
 
-I'm currently focused on becoming a **Full-Stack Developer**, strengthening my programming fundamentals, backend development skills, and understanding of how modern applications work.
+Currently on a journey to become a Full-Stack Developer. I enjoy building things, breaking them, fixing them, and occasionally wondering why they worked in the first place.
 
-I enjoy learning by building projects, experimenting with technologies, and turning ideas into practical applications.
+I believe in learning by doing, Googling error messages, and pretending that the code worked exactly as planned. 💀
 
 ---
 
@@ -16,44 +16,58 @@ I enjoy learning by building projects, experimenting with technologies, and turn
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js, Python
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, VS Code, Power BI
-- **Data & Analytics:** Pandas, NumPy, Matplotlib, Excel
+- **Tools:** Git, GitHub, VS Code
+- **Data & Analytics:** Power BI, Pandas, NumPy, Excel
 
 ---
 
-### 📌 Current Focus
+### 📌 What I'm Up To
 
-- 💻 Building a strong foundation in Full-Stack Development
-- 🐍 Improving Python and backend development skills
-- 🌐 Learning application architecture and database integration
-- 🛠️ Building practical projects to strengthen my development experience
-- 📚 Practicing problem-solving and writing cleaner, maintainable code
+- 💻 Building my way towards Full-Stack Development
+- 🐍 Exploring Python and backend development
+- 🌐 Learning how frontend and backend actually communicate (it's complicated)
+- 🛠️ Building projects, one bug at a time
+- ☕ Debugging code and questioning my life choices
 
 ---
 
-### 🌱 Currently Exploring
+### 🌱 Currently Learning
 
 - Python Backend Development
-- Django and REST APIs
+- Django & REST APIs
 - Full-Stack Application Development
-- Database Design and Optimization
-- Git, GitHub and Software Development Workflows
+- Database Design & Optimization
+- Writing code that my future self won't hate
 
 ---
 
-### 📂 Projects
+### 🧪 Developer Philosophy
 
-I enjoy working on projects that combine practical problem-solving with technology.
+- If it works, don't touch it. 
+- If it doesn't work, blame the semicolon.
+- Google is my senior developer.
+- Stack Overflow is my unofficial mentor.
+- `print("Why isn't this working?")` is a debugging strategy.
 
-Check out my repositories to explore my dashboards, data projects, and software development experiments.
+---
+
+### 📂 My Projects
+
+I like experimenting with ideas and turning them into actual projects.
+
+Feel free to explore my repositories. Some are useful, some are experiments, and some are just me fighting with code.
 
 ---
 
 ### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pritish-vilayatkar-785535308/)
-- ✉️ **Email:** pritish31vi@gmail.com
+- ✉️ pritish31vi@gmail.com
 
 ---
 
-*“The best way to learn programming is to build something, break it, understand it, and build it better.”*
+*“Eat. Sleep. Code. Debug. Repeat. Occasionally touch grass.”* 🌱
+
+<!--
+pritish31v/pritish31v is a special repository because its README.md appears on your GitHub profile.
+-->
