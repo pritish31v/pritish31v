@@ -43,11 +43,23 @@ I believe in learning by doing, Googling error messages, and pretending that the
 
 ### 🧪 Developer Philosophy
 
-- If it works, don't touch it. 
+- If it works, don't touch it.
 - If it doesn't work, blame the semicolon.
 - Google is my senior developer.
 - Stack Overflow is my unofficial mentor.
 - `print("Why isn't this working?")` is a debugging strategy.
+
+---
+
+### 🤖 A Little About Me
+
+```python
+def hello_world(text):
+    print(text)
+
+
+hello_world("print")
+```
 
 ---
 
